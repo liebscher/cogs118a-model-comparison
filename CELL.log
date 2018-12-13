@@ -1,0 +1,1052 @@
+[2018-12-12 12:33:28.028646] ==== CELL CV ====
+[2018-12-12 12:33:28.034681] TRIAL #2, TRAIN SZ: 1247, TEST SZ: 4988
+[2018-12-12 12:33:28.035159] TRIAL #1, TRAIN SZ: 1247, TEST SZ: 4988
+[2018-12-12 12:33:28.035247] TRIAL #3, TRAIN SZ: 1247, TEST SZ: 4988
+[2018-12-12 12:33:28.035761] Making 20 iterations on xgb_2 (0.2)
+[2018-12-12 12:33:28.036466] Making 20 iterations on xgb_1 (0.2)
+[2018-12-12 12:33:28.036492] Making 20 iterations on xgb_3 (0.2)
+[2018-12-12 12:33:34.409428] xgb[1][2] current best score: 0.6988
+[2018-12-12 12:33:34.415199] xgb[1][3] current best score: 0.6385
+[2018-12-12 12:33:34.615613] xgb[1][1] current best score: 0.6950
+[2018-12-12 12:33:37.845785] xgb[2][3] current best score: 0.6481
+[2018-12-12 12:33:37.923714] xgb[2][2] current best score: 0.6988
+[2018-12-12 12:33:38.066508] xgb[2][1] current best score: 0.6950
+[2018-12-12 12:33:43.218195] xgb[3][3] current best score: 0.6788
+[2018-12-12 12:33:43.368613] xgb[3][2] current best score: 0.7129
+[2018-12-12 12:33:43.392742] xgb[3][1] current best score: 0.7093
+[2018-12-12 12:33:56.855086] xgb[4][3] current best score: 0.7295
+[2018-12-12 12:33:57.013241] xgb[4][2] current best score: 0.7460
+[2018-12-12 12:33:57.180541] xgb[4][1] current best score: 0.7323
+[2018-12-12 12:34:06.252678] xgb[5][3] current best score: 0.7295
+[2018-12-12 12:34:06.348648] xgb[5][2] current best score: 0.7670
+[2018-12-12 12:34:06.860163] xgb[5][1] current best score: 0.7601
+[2018-12-12 12:34:23.400611] xgb[6][2] current best score: 0.7766
+[2018-12-12 12:34:23.483165] xgb[6][3] current best score: 0.7380
+[2018-12-12 12:34:24.356633] xgb[6][1] current best score: 0.7601
+[2018-12-12 12:34:29.479704] xgb[7][2] current best score: 0.7766
+[2018-12-12 12:34:29.480130] xgb[7][3] current best score: 0.7380
+[2018-12-12 12:34:30.922638] xgb[7][1] current best score: 0.7601
+[2018-12-12 12:34:42.262981] xgb[8][3] current best score: 0.7380
+[2018-12-12 12:34:42.460637] xgb[8][2] current best score: 0.7766
+[2018-12-12 12:34:42.680419] xgb[9][3] current best score: 0.7380
+[2018-12-12 12:34:42.859000] xgb[9][2] current best score: 0.7766
+[2018-12-12 12:34:43.313699] xgb[8][1] current best score: 0.7601
+[2018-12-12 12:34:43.778662] xgb[9][1] current best score: 0.7601
+[2018-12-12 12:34:50.083570] xgb[10][3] current best score: 0.7380
+[2018-12-12 12:34:50.368068] xgb[10][2] current best score: 0.7766
+[2018-12-12 12:34:50.908385] xgb[10][1] current best score: 0.7601
+[2018-12-12 12:35:11.414007] xgb[11][3] current best score: 0.7673
+[2018-12-12 12:35:11.684975] xgb[11][2] current best score: 0.7956
+[2018-12-12 12:35:12.517147] xgb[11][1] current best score: 0.7675
+[2018-12-12 12:35:34.613051] xgb[12][3] current best score: 0.7673
+[2018-12-12 12:35:34.708194] xgb[12][2] current best score: 0.7956
+[2018-12-12 12:35:35.339993] xgb[12][1] current best score: 0.7952
+[2018-12-12 12:35:55.873802] xgb[13][3] current best score: 0.7673
+[2018-12-12 12:35:55.995010] xgb[13][2] current best score: 0.7956
+[2018-12-12 12:35:56.530164] xgb[13][1] current best score: 0.7952
+[2018-12-12 12:36:16.877484] xgb[14][2] current best score: 0.7981
+[2018-12-12 12:36:17.072195] xgb[14][3] current best score: 0.7673
+[2018-12-12 12:36:17.283771] xgb[14][1] current best score: 0.7952
+[2018-12-12 12:36:36.424004] xgb[15][3] current best score: 0.7673
+[2018-12-12 12:36:36.569211] xgb[15][2] current best score: 0.7981
+[2018-12-12 12:36:36.642442] xgb[15][1] current best score: 0.7952
+[2018-12-12 12:36:52.384958] xgb[16][2] current best score: 0.7981
+[2018-12-12 12:36:55.488249] xgb[16][3] current best score: 0.7673
+[2018-12-12 12:36:55.897308] xgb[16][1] current best score: 0.7952
+[2018-12-12 12:37:14.878985] xgb[17][2] current best score: 0.7981
+[2018-12-12 12:37:18.059088] xgb[17][3] current best score: 0.7673
+[2018-12-12 12:37:18.403514] xgb[17][1] current best score: 0.7952
+[2018-12-12 12:37:36.858019] xgb[18][2] current best score: 0.7981
+[2018-12-12 12:37:38.348374] xgb[18][3] current best score: 0.7699
+[2018-12-12 12:37:41.000025] xgb[18][1] current best score: 0.7952
+[2018-12-12 12:37:54.152697] xgb[19][1] current best score: 0.7952
+[2018-12-12 12:37:54.155337] xgb[19][1] stopped early
+[2018-12-12 12:37:55.281185] xgb[19][2] current best score: 0.7981
+[2018-12-12 12:37:59.336434] xgb[19][3] current best score: 0.7699
+[2018-12-12 12:37:59.579894] (0) RESULTS [0:04:31.543830]: clf: xgb, p: 0.2, train: 1.0000, val: 0.7952, test: 0.8017
+[2018-12-12 12:37:59.579894] (1) BEST_PARAMS: n_estimators: 1024
+[2018-12-12 12:37:59.580642] Making 24 iterations on rfc_1 (0.2)
+[2018-12-12 12:38:24.525450] xgb[20][2] current best score: 0.7981
+[2018-12-12 12:38:34.454801] xgb[20][3] current best score: 0.7699
+[2018-12-12 12:38:37.053357] (0) RESULTS [0:05:09.017850]: clf: xgb, p: 0.2, train: 1.0000, val: 0.7981, test: 0.8015
+[2018-12-12 12:38:37.053357] (1) BEST_PARAMS: n_estimators: 1024
+[2018-12-12 12:38:37.054513] Making 24 iterations on rfc_2 (0.2)
+[2018-12-12 12:38:41.706075] rfc[1][1] current best score: 0.8144
+[2018-12-12 12:38:44.621222] (0) RESULTS [0:05:16.585135]: clf: xgb, p: 0.2, train: 1.0000, val: 0.7699, test: 0.7674
+[2018-12-12 12:38:44.621222] (1) BEST_PARAMS: n_estimators: 858
+[2018-12-12 12:38:44.621942] Making 24 iterations on rfc_3 (0.2)
+[2018-12-12 12:39:45.603062] rfc[1][2] current best score: 0.7992
+[2018-12-12 12:39:48.673585] rfc[2][1] current best score: 0.8144
+[2018-12-12 12:39:54.342253] rfc[1][3] current best score: 0.7696
+[2018-12-12 12:42:53.563020] rfc[2][2] current best score: 0.8547
+[2018-12-12 12:42:55.133217] rfc[3][1] current best score: 0.8391
+[2018-12-12 12:43:08.754264] rfc[2][3] current best score: 0.8490
+[2018-12-12 12:45:20.918099] rfc[3][2] current best score: 0.8547
+[2018-12-12 12:45:45.297684] rfc[3][3] current best score: 0.8490
+[2018-12-12 12:47:09.631856] rfc[4][1] current best score: 0.8406
+[2018-12-12 12:48:24.460595] rfc[5][1] current best score: 0.8406
+[2018-12-12 12:49:46.864331] rfc[4][2] current best score: 0.8768
+[2018-12-12 12:50:04.471835] rfc[6][1] current best score: 0.8406
+[2018-12-12 12:50:23.572756] rfc[4][3] current best score: 0.8604
+[2018-12-12 12:50:51.138337] rfc[7][1] current best score: 0.8406
+[2018-12-12 12:52:25.953025] rfc[8][1] current best score: 0.8406
+[2018-12-12 12:52:57.750060] rfc[5][2] current best score: 0.8768
+[2018-12-12 12:53:35.831442] rfc[5][3] current best score: 0.8604
+[2018-12-12 12:53:50.377546] rfc[6][2] current best score: 0.8768
+[2018-12-12 12:54:35.567434] rfc[6][3] current best score: 0.8604
+[2018-12-12 12:55:47.014373] rfc[9][1] current best score: 0.8562
+[2018-12-12 12:56:26.225574] rfc[10][1] current best score: 0.8562
+[2018-12-12 12:58:27.982562] rfc[7][2] current best score: 0.8768
+[2018-12-12 12:59:13.047683] rfc[7][3] current best score: 0.8604
+[2018-12-12 13:00:50.976614] rfc[11][1] current best score: 0.8562
+[2018-12-12 13:02:08.406951] rfc[8][2] current best score: 0.8768
+[2018-12-12 13:02:59.182119] rfc[8][3] current best score: 0.8604
+[2018-12-12 13:04:04.725206] rfc[12][1] current best score: 0.8562
+[2018-12-12 13:05:58.202328] rfc[9][2] current best score: 0.8768
+[2018-12-12 13:07:06.284636] rfc[9][3] current best score: 0.8604
+[2018-12-12 13:08:50.323529] rfc[13][1] current best score: 0.8562
+[2018-12-12 13:08:58.064950] rfc[10][2] current best score: 0.8768
+[2018-12-12 13:10:06.926738] rfc[10][3] current best score: 0.8604
+[2018-12-12 13:12:25.059849] rfc[14][1] current best score: 0.8562
+[2018-12-12 13:13:48.220472] rfc[11][2] current best score: 0.8768
+[2018-12-12 13:13:48.226284] rfc[11][2] stopped early
+[2018-12-12 13:15:00.741109] (0) RESULTS [0:36:23.686614]: clf: rfc, p: 0.2, train: 1.0000, val: 0.8768, test: 0.9118
+[2018-12-12 13:15:00.741109] (1) BEST_PARAMS: max_features: 47
+[2018-12-12 13:15:00.741828] Making 40 iterations on ada_2 (0.2)
+[2018-12-12 13:15:08.468928] rfc[11][3] current best score: 0.8604
+[2018-12-12 13:15:08.470302] rfc[11][3] stopped early
+[2018-12-12 13:15:56.505238] rfc[15][1] current best score: 0.8562
+[2018-12-12 13:16:12.938889] (0) RESULTS [0:37:28.316955]: clf: rfc, p: 0.2, train: 1.0000, val: 0.8604, test: 0.8986
+[2018-12-12 13:16:12.938889] (1) BEST_PARAMS: max_features: 47
+[2018-12-12 13:16:12.939614] Making 40 iterations on ada_3 (0.2)
+[2018-12-12 13:16:14.963208] ada[1][2] current best score: 0.4824
+[2018-12-12 13:16:30.563051] ada[2][2] current best score: 0.4824
+[2018-12-12 13:16:58.249111] ada[3][2] current best score: 0.5428
+[2018-12-12 13:17:02.212108] ada[1][3] current best score: 0.3713
+[2018-12-12 13:17:15.458999] ada[2][3] current best score: 0.3713
+[2018-12-12 13:17:39.421633] ada[4][2] current best score: 0.5428
+[2018-12-12 13:17:42.793906] ada[3][3] current best score: 0.4862
+[2018-12-12 13:18:23.681677] ada[5][2] current best score: 0.5428
+[2018-12-12 13:18:31.030220] ada[4][3] current best score: 0.4862
+[2018-12-12 13:18:43.316058] rfc[16][1] current best score: 0.8583
+[2018-12-12 13:19:12.870917] ada[5][3] current best score: 0.4862
+[2018-12-12 13:19:34.198097] ada[6][2] current best score: 0.5428
+[2018-12-12 13:19:37.212642] ada[7][2] current best score: 0.5428
+[2018-12-12 13:19:51.727442] ada[8][2] current best score: 0.5428
+[2018-12-12 13:20:18.148159] ada[9][2] current best score: 0.5428
+[2018-12-12 13:20:21.025903] ada[10][2] current best score: 0.5428
+[2018-12-12 13:20:21.027544] ada[10][2] stopped early
+[2018-12-12 13:20:22.027777] ada[6][3] current best score: 0.4862
+[2018-12-12 13:20:24.010671] ada[7][3] current best score: 0.6583
+[2018-12-12 13:20:27.611933] (0) RESULTS [0:05:26.870104]: clf: ada, p: 0.2, train: 0.9161, val: 0.5428, test: 0.5204
+[2018-12-12 13:20:27.611933] (1) BEST_PARAMS: learning_rate: 0.45272076370826336, n_estimators: 385
+[2018-12-12 13:20:27.620255] Making 20 iterations on svc_lin_2 (0.2)
+[2018-12-12 13:20:29.695777] svc_lin[1][2] current best score: 0.4893
+[2018-12-12 13:20:29.847168] svc_lin[2][2] current best score: 0.4893
+[2018-12-12 13:20:29.981127] svc_lin[3][2] current best score: 0.4937
+[2018-12-12 13:20:30.155727] svc_lin[4][2] current best score: 0.4937
+[2018-12-12 13:20:30.482909] svc_lin[5][2] current best score: 0.4937
+[2018-12-12 13:20:32.726355] svc_lin[6][2] current best score: 0.4937
+[2018-12-12 13:20:32.828497] svc_lin[7][2] current best score: 0.4937
+[2018-12-12 13:20:34.967700] svc_lin[8][2] current best score: 0.4937
+[2018-12-12 13:20:37.124100] ada[8][3] current best score: 0.6583
+[2018-12-12 13:20:37.172797] svc_lin[9][2] current best score: 0.4937
+[2018-12-12 13:20:38.559386] svc_lin[10][2] current best score: 0.4937
+[2018-12-12 13:20:38.560389] svc_lin[10][2] stopped early
+[2018-12-12 13:20:38.586635] (0) RESULTS [0:00:10.966366]: clf: svc_lin, p: 0.2, train: 0.5908, val: 0.4937, test: 0.4745
+[2018-12-12 13:20:38.586635] (1) BEST_PARAMS: C: 1.7990762337622668e-07
+[2018-12-12 13:20:38.587610] Making 24 iterations on svc_rbf_2 (0.2)
+[2018-12-12 13:20:40.349749] svc_rbf[1][2] current best score: 0.3159
+[2018-12-12 13:20:41.954402] svc_rbf[2][2] current best score: 0.3899
+[2018-12-12 13:20:43.662014] svc_rbf[3][2] current best score: 0.3899
+[2018-12-12 13:20:45.245994] svc_rbf[4][2] current best score: 0.3899
+[2018-12-12 13:20:46.993485] svc_rbf[5][2] current best score: 0.3899
+[2018-12-12 13:20:48.626946] svc_rbf[6][2] current best score: 0.3899
+[2018-12-12 13:20:50.242907] svc_rbf[7][2] current best score: 0.4363
+[2018-12-12 13:20:51.934369] svc_rbf[8][2] current best score: 0.4363
+[2018-12-12 13:20:53.363335] svc_rbf[9][2] current best score: 0.4363
+[2018-12-12 13:20:56.161731] svc_rbf[10][2] current best score: 0.4363
+[2018-12-12 13:20:59.941943] svc_rbf[11][2] current best score: 0.4871
+[2018-12-12 13:21:08.771666] svc_rbf[12][2] current best score: 0.5269
+[2018-12-12 13:21:11.275801] (0) RESULTS [0:00:32.688244]: clf: svc_rbf, p: 0.2, train: 1.0000, val: 0.5269, test: 0.5463
+[2018-12-12 13:21:11.275801] (1) BEST_PARAMS: C: 484.10395857797806, gamma: 0.0014734223018411615
+[2018-12-12 13:21:11.289780] Making 16 iterations on knn_2 (0.2)
+[2018-12-12 13:21:12.447321] knn[1][2] current best score: 0.9872
+[2018-12-12 13:21:13.571785] knn[2][2] current best score: 0.9872
+[2018-12-12 13:21:14.691941] knn[3][2] current best score: 0.9872
+[2018-12-12 13:21:15.792037] knn[4][2] current best score: 0.9875
+[2018-12-12 13:21:17.038538] knn[5][2] current best score: 0.9875
+[2018-12-12 13:21:18.172263] knn[6][2] current best score: 0.9876
+[2018-12-12 13:21:19.325351] knn[7][2] current best score: 0.9876
+[2018-12-12 13:21:19.326217] knn[7][2] stopped early
+[2018-12-12 13:21:20.045467] (0) RESULTS [0:00:08.769151]: clf: knn, p: 0.2, train: 1.0000, val: 0.9876, test: 0.9930
+[2018-12-12 13:21:20.045467] (1) BEST_PARAMS: weights: uniform
+[2018-12-12 13:21:20.046217] Making 16 iterations on logreg_2 (0.2)
+[2018-12-12 13:21:20.220570] logreg[1][2] current best score: 0.4794
+[2018-12-12 13:21:20.384778] logreg[2][2] current best score: 0.4996
+[2018-12-12 13:21:20.591201] logreg[3][2] current best score: 0.4996
+[2018-12-12 13:21:20.789424] logreg[4][2] current best score: 0.4998
+[2018-12-12 13:21:20.961794] logreg[5][2] current best score: 0.4998
+[2018-12-12 13:21:21.194034] logreg[6][2] current best score: 0.4998
+[2018-12-12 13:21:21.349853] logreg[7][2] current best score: 0.4998
+[2018-12-12 13:21:21.510194] logreg[8][2] current best score: 0.4998
+[2018-12-12 13:21:21.667150] logreg[9][2] current best score: 0.4998
+[2018-12-12 13:21:21.668555] logreg[9][2] stopped early
+[2018-12-12 13:21:21.708593] (0) RESULTS [0:00:01.662338]: clf: logreg, p: 0.2, train: 0.5892, val: 0.4998, test: 0.4767
+[2018-12-12 13:21:21.708593] (1) BEST_PARAMS: C: 6.834611094446522
+[2018-12-12 13:21:23.645835] ada[9][3] current best score: 0.6583
+[2018-12-12 13:21:32.745573] rfc[17][1] current best score: 0.8583
+[2018-12-12 13:22:17.566831] ada[10][3] current best score: 0.6583
+[2018-12-12 13:22:24.837532] ada[11][3] current best score: 0.6583
+[2018-12-12 13:22:27.676212] ada[12][3] current best score: 0.6583
+[2018-12-12 13:22:31.852103] ada[13][3] current best score: 0.6583
+[2018-12-12 13:22:38.084186] ada[14][3] current best score: 0.6583
+[2018-12-12 13:22:38.084975] ada[14][3] stopped early
+[2018-12-12 13:22:38.591497] (0) RESULTS [0:06:25.651881]: clf: ada, p: 0.2, train: 0.9061, val: 0.6583, test: 0.4992
+[2018-12-12 13:22:38.591497] (1) BEST_PARAMS: learning_rate: 3.353960348985156, n_estimators: 91
+[2018-12-12 13:22:38.592653] Making 20 iterations on svc_lin_3 (0.2)
+[2018-12-12 13:22:38.658159] svc_lin[1][3] current best score: 0.4737
+[2018-12-12 13:22:38.711544] svc_lin[2][3] current best score: 0.4737
+[2018-12-12 13:22:40.147895] svc_lin[3][3] current best score: 0.4737
+[2018-12-12 13:22:40.231926] svc_lin[4][3] current best score: 0.4737
+[2018-12-12 13:22:40.391239] svc_lin[5][3] current best score: 0.4816
+[2018-12-12 13:22:40.475795] svc_lin[6][3] current best score: 0.4816
+[2018-12-12 13:22:40.525364] svc_lin[7][3] current best score: 0.4816
+[2018-12-12 13:22:40.687193] svc_lin[8][3] current best score: 0.4816
+[2018-12-12 13:22:40.719539] svc_lin[9][3] current best score: 0.4948
+[2018-12-12 13:22:41.312546] svc_lin[10][3] current best score: 0.4948
+[2018-12-12 13:22:43.553348] svc_lin[11][3] current best score: 0.5094
+[2018-12-12 13:22:46.060575] svc_lin[12][3] current best score: 0.5094
+[2018-12-12 13:22:48.967416] svc_lin[13][3] current best score: 0.5094
+[2018-12-12 13:22:51.884724] svc_lin[14][3] current best score: 0.5094
+[2018-12-12 13:22:54.711762] svc_lin[15][3] current best score: 0.5094
+[2018-12-12 13:22:55.855785] svc_lin[16][3] current best score: 0.5094
+[2018-12-12 13:22:57.091716] svc_lin[17][3] current best score: 0.5094
+[2018-12-12 13:22:58.269833] svc_lin[18][3] current best score: 0.5094
+[2018-12-12 13:22:58.270612] svc_lin[18][3] stopped early
+[2018-12-12 13:22:58.803277] (0) RESULTS [0:00:20.210642]: clf: svc_lin, p: 0.2, train: 0.5827, val: 0.5094, test: 0.4894
+[2018-12-12 13:22:58.803277] (1) BEST_PARAMS: C: 997.4947049973155
+[2018-12-12 13:22:58.804095] Making 24 iterations on svc_rbf_3 (0.2)
+[2018-12-12 13:23:00.548200] svc_rbf[1][3] current best score: 0.9426
+[2018-12-12 13:23:01.905834] svc_rbf[2][3] current best score: 0.9426
+[2018-12-12 13:23:02.968451] svc_rbf[3][3] current best score: 0.9426
+[2018-12-12 13:23:04.053093] svc_rbf[4][3] current best score: 0.9426
+[2018-12-12 13:23:05.501234] svc_rbf[5][3] current best score: 0.9426
+[2018-12-12 13:23:06.655809] svc_rbf[6][3] current best score: 0.9426
+[2018-12-12 13:23:07.810155] svc_rbf[7][3] current best score: 0.9426
+[2018-12-12 13:23:07.810962] svc_rbf[7][3] stopped early
+[2018-12-12 13:23:08.567825] (0) RESULTS [0:00:09.763791]: clf: svc_rbf, p: 0.2, train: 1.0000, val: 0.9426, test: 0.9725
+[2018-12-12 13:23:08.567825] (1) BEST_PARAMS: C: 63.568289337605826, gamma: 0.05527800672911824
+[2018-12-12 13:23:08.570879] Making 16 iterations on knn_3 (0.2)
+[2018-12-12 13:23:09.671770] knn[1][3] current best score: 0.9812
+[2018-12-12 13:23:10.744146] knn[2][3] current best score: 0.9844
+[2018-12-12 13:23:11.838449] knn[3][3] current best score: 0.9846
+[2018-12-12 13:23:12.929364] knn[4][3] current best score: 0.9901
+[2018-12-12 13:23:14.005324] knn[5][3] current best score: 0.9901
+[2018-12-12 13:23:15.082040] knn[6][3] current best score: 0.9901
+[2018-12-12 13:23:16.171374] knn[7][3] current best score: 0.9901
+[2018-12-12 13:23:17.251248] knn[8][3] current best score: 0.9901
+[2018-12-12 13:23:18.318105] knn[9][3] current best score: 0.9901
+[2018-12-12 13:23:19.844768] knn[10][3] current best score: 0.9901
+[2018-12-12 13:23:21.483535] knn[11][3] current best score: 0.9901
+[2018-12-12 13:23:21.484658] knn[11][3] stopped early
+[2018-12-12 13:23:22.012014] (0) RESULTS [0:00:13.443119]: clf: knn, p: 0.2, train: 1.0000, val: 0.9901, test: 0.9920
+[2018-12-12 13:23:22.012014] (1) BEST_PARAMS: weights: distance
+[2018-12-12 13:23:22.012722] Making 16 iterations on logreg_3 (0.2)
+[2018-12-12 13:23:22.078430] logreg[1][3] current best score: 0.4831
+[2018-12-12 13:23:22.137465] logreg[2][3] current best score: 0.4831
+[2018-12-12 13:23:22.195102] logreg[3][3] current best score: 0.4831
+[2018-12-12 13:23:22.252946] logreg[4][3] current best score: 0.4831
+[2018-12-12 13:23:22.336200] logreg[5][3] current best score: 0.4831
+[2018-12-12 13:23:22.387182] logreg[6][3] current best score: 0.4831
+[2018-12-12 13:23:22.485755] logreg[7][3] current best score: 0.4831
+[2018-12-12 13:23:22.486538] logreg[7][3] stopped early
+[2018-12-12 13:23:22.509072] (0) RESULTS [0:00:00.496354]: clf: logreg, p: 0.2, train: 0.5775, val: 0.4831, test: 0.4862
+[2018-12-12 13:23:22.509072] (1) BEST_PARAMS: C: 127.28950531434636
+[2018-12-12 13:23:40.634827] rfc[18][1] current best score: 0.8583
+[2018-12-12 13:24:52.228708] rfc[19][1] current best score: 0.8583
+[2018-12-12 13:25:57.047990] rfc[20][1] current best score: 0.8583
+[2018-12-12 13:27:32.480619] rfc[21][1] current best score: 0.8583
+[2018-12-12 13:29:21.399530] rfc[22][1] current best score: 0.8583
+[2018-12-12 13:30:23.405931] rfc[23][1] current best score: 0.8583
+[2018-12-12 13:30:23.406544] rfc[23][1] stopped early
+[2018-12-12 13:30:52.230455] (0) RESULTS [0:52:52.649813]: clf: rfc, p: 0.2, train: 1.0000, val: 0.8583, test: 0.8909
+[2018-12-12 13:30:52.230455] (1) BEST_PARAMS: max_features: 49
+[2018-12-12 13:30:52.231294] Making 40 iterations on ada_1 (0.2)
+[2018-12-12 13:30:53.272910] ada[1][1] current best score: 0.2646
+[2018-12-12 13:31:05.857708] ada[2][1] current best score: 0.5247
+[2018-12-12 13:31:21.923216] ada[3][1] current best score: 0.5247
+[2018-12-12 13:31:43.697025] ada[4][1] current best score: 0.5247
+[2018-12-12 13:31:59.221203] ada[5][1] current best score: 0.5247
+[2018-12-12 13:32:33.343649] ada[6][1] current best score: 0.5247
+[2018-12-12 13:32:50.375694] ada[7][1] current best score: 0.5247
+[2018-12-12 13:33:03.558756] ada[8][1] current best score: 0.5247
+[2018-12-12 13:33:29.627189] ada[9][1] current best score: 0.5247
+[2018-12-12 13:33:29.627797] ada[9][1] stopped early
+[2018-12-12 13:33:32.108712] (0) RESULTS [0:02:39.877458]: clf: ada, p: 0.2, train: 0.8890, val: 0.5247, test: 0.5166
+[2018-12-12 13:33:32.108712] (1) BEST_PARAMS: learning_rate: 0.3741205493628221, n_estimators: 312
+[2018-12-12 13:33:32.109245] Making 20 iterations on svc_lin_1 (0.2)
+[2018-12-12 13:33:32.132620] svc_lin[1][1] current best score: 0.4776
+[2018-12-12 13:33:32.562919] svc_lin[2][1] current best score: 0.4865
+[2018-12-12 13:33:33.421720] svc_lin[3][1] current best score: 0.4953
+[2018-12-12 13:33:33.462093] svc_lin[4][1] current best score: 0.4953
+[2018-12-12 13:33:34.271441] svc_lin[5][1] current best score: 0.5011
+[2018-12-12 13:33:34.687445] svc_lin[6][1] current best score: 0.5011
+[2018-12-12 13:33:34.798964] svc_lin[7][1] current best score: 0.5011
+[2018-12-12 13:33:35.643533] svc_lin[8][1] current best score: 0.5080
+[2018-12-12 13:33:35.664785] svc_lin[9][1] current best score: 0.5080
+[2018-12-12 13:33:36.075147] svc_lin[10][1] current best score: 0.5080
+[2018-12-12 13:33:37.366467] svc_lin[11][1] current best score: 0.5147
+[2018-12-12 13:33:38.705817] svc_lin[12][1] current best score: 0.5147
+[2018-12-12 13:33:40.063828] svc_lin[13][1] current best score: 0.5147
+[2018-12-12 13:33:41.451941] svc_lin[14][1] current best score: 0.5147
+[2018-12-12 13:33:41.965957] svc_lin[15][1] current best score: 0.5147
+[2018-12-12 13:33:43.396558] svc_lin[16][1] current best score: 0.5147
+[2018-12-12 13:33:44.037929] svc_lin[17][1] current best score: 0.5147
+[2018-12-12 13:33:45.504726] svc_lin[18][1] current best score: 0.5147
+[2018-12-12 13:33:45.505330] svc_lin[18][1] stopped early
+[2018-12-12 13:33:45.703401] (0) RESULTS [0:00:13.594144]: clf: svc_lin, p: 0.2, train: 0.5976, val: 0.5147, test: 0.5084
+[2018-12-12 13:33:45.703401] (1) BEST_PARAMS: C: 1000.0
+[2018-12-12 13:33:45.704184] Making 24 iterations on svc_rbf_1 (0.2)
+[2018-12-12 13:33:46.592456] svc_rbf[1][1] current best score: 0.3941
+[2018-12-12 13:33:47.432944] svc_rbf[2][1] current best score: 0.4819
+[2018-12-12 13:33:48.214982] svc_rbf[3][1] current best score: 0.4819
+[2018-12-12 13:33:49.027656] svc_rbf[4][1] current best score: 0.4819
+[2018-12-12 13:33:49.850740] svc_rbf[5][1] current best score: 0.4819
+[2018-12-12 13:33:50.595742] svc_rbf[6][1] current best score: 0.4819
+[2018-12-12 13:33:51.391856] svc_rbf[7][1] current best score: 0.8864
+[2018-12-12 13:33:52.358246] svc_rbf[8][1] current best score: 0.8864
+[2018-12-12 13:33:53.129695] svc_rbf[9][1] current best score: 0.8864
+[2018-12-12 13:33:54.590434] svc_rbf[10][1] current best score: 0.8864
+[2018-12-12 13:33:56.401798] svc_rbf[11][1] current best score: 0.8864
+[2018-12-12 13:33:58.108084] svc_rbf[12][1] current best score: 0.9383
+[2018-12-12 13:33:58.619861] (0) RESULTS [0:00:12.915731]: clf: svc_rbf, p: 0.2, train: 1.0000, val: 0.9383, test: 0.9753
+[2018-12-12 13:33:58.619861] (1) BEST_PARAMS: C: 1000.0, gamma: 0.047589275365684226
+[2018-12-12 13:33:58.621591] Making 16 iterations on knn_1 (0.2)
+[2018-12-12 13:33:59.705569] knn[1][1] current best score: 0.9798
+[2018-12-12 13:34:00.797895] knn[2][1] current best score: 0.9804
+[2018-12-12 13:34:01.880306] knn[3][1] current best score: 0.9804
+[2018-12-12 13:34:02.967776] knn[4][1] current best score: 0.9804
+[2018-12-12 13:34:04.049587] knn[5][1] current best score: 0.9804
+[2018-12-12 13:34:05.129907] knn[6][1] current best score: 0.9804
+[2018-12-12 13:34:06.215180] knn[7][1] current best score: 0.9804
+[2018-12-12 13:34:06.216004] knn[7][1] stopped early
+[2018-12-12 13:34:06.534345] (0) RESULTS [0:00:07.913974]: clf: knn, p: 0.2, train: 1.0000, val: 0.9804, test: 0.9956
+[2018-12-12 13:34:06.534345] (1) BEST_PARAMS: weights: distance
+[2018-12-12 13:34:06.534953] Making 16 iterations on logreg_1 (0.2)
+[2018-12-12 13:34:06.560357] logreg[1][1] current best score: 0.4899
+[2018-12-12 13:34:06.589462] logreg[2][1] current best score: 0.4899
+[2018-12-12 13:34:06.618190] logreg[3][1] current best score: 0.4899
+[2018-12-12 13:34:06.647296] logreg[4][1] current best score: 0.4944
+[2018-12-12 13:34:06.676320] logreg[5][1] current best score: 0.4944
+[2018-12-12 13:34:06.699827] logreg[6][1] current best score: 0.4944
+[2018-12-12 13:34:06.721830] logreg[7][1] current best score: 0.4974
+[2018-12-12 13:34:06.757690] logreg[8][1] current best score: 0.4974
+[2018-12-12 13:34:06.778828] logreg[9][1] current best score: 0.4974
+[2018-12-12 13:34:07.070572] logreg[10][1] current best score: 0.4974
+[2018-12-12 13:34:07.537390] logreg[11][1] current best score: 0.5185
+[2018-12-12 13:34:08.056314] logreg[12][1] current best score: 0.5185
+[2018-12-12 13:34:08.669169] logreg[13][1] current best score: 0.5185
+[2018-12-12 13:34:09.203129] logreg[14][1] current best score: 0.5185
+[2018-12-12 13:34:09.739470] logreg[15][1] current best score: 0.5185
+[2018-12-12 13:34:10.287625] logreg[16][1] current best score: 0.5185
+[2018-12-12 13:34:10.297993] (0) RESULTS [0:00:03.763055]: clf: logreg, p: 0.2, train: 0.6004, val: 0.5185, test: 0.4846
+[2018-12-12 13:34:10.297993] (1) BEST_PARAMS: C: 10000.0
+[2018-12-12 13:34:10.300130] (0) Total Time: 1:00:42.270523
+[2018-12-12 13:34:10.300130] (1) ==== CV Complete ====
+[2018-12-12 22:00:22.230584] ==== CELL CV ====
+[2018-12-12 22:00:22.236872] TRIAL #3, TRAIN SZ: 3117, TEST SZ: 3118
+[2018-12-12 22:00:22.236901] TRIAL #2, TRAIN SZ: 3117, TEST SZ: 3118
+[2018-12-12 22:00:22.236862] TRIAL #1, TRAIN SZ: 3117, TEST SZ: 3118
+[2018-12-12 22:00:22.238279] Making 20 iterations on xgb_1 (0.5)
+[2018-12-12 22:00:22.238426] Making 20 iterations on xgb_2 (0.5)
+[2018-12-12 22:00:22.238434] Making 20 iterations on xgb_3 (0.5)
+[2018-12-12 22:01:00.206993] xgb[1][1] current best score: 0.9076
+[2018-12-12 22:01:00.616494] xgb[1][3] current best score: 0.8982
+[2018-12-12 22:01:00.791321] xgb[1][2] current best score: 0.9070
+[2018-12-12 22:01:31.595714] ==== CELL CV ====
+[2018-12-12 22:01:31.602204] TRIAL #2, TRAIN SZ: 3117, TEST SZ: 3118
+[2018-12-12 22:01:31.602752] TRIAL #1, TRAIN SZ: 3117, TEST SZ: 3118
+[2018-12-12 22:01:31.604075] Making 20 iterations on xgb_1 (0.5)
+[2018-12-12 22:01:31.603962] Making 20 iterations on xgb_2 (0.5)
+[2018-12-12 22:01:31.603949] TRIAL #3, TRAIN SZ: 3117, TEST SZ: 3118
+[2018-12-12 22:01:31.605319] Making 20 iterations on xgb_3 (0.5)
+[2018-12-12 22:01:55.056888] xgb[1][3] current best score: 0.8676
+[2018-12-12 22:01:55.117254] xgb[1][2] current best score: 0.8690
+[2018-12-12 22:01:55.390649] xgb[1][1] current best score: 0.8861
+[2018-12-12 22:01:59.632475] xgb[2][3] current best score: 0.8676
+[2018-12-12 22:01:59.797067] xgb[2][2] current best score: 0.8690
+[2018-12-12 22:02:00.147837] xgb[2][1] current best score: 0.8861
+[2018-12-12 22:02:26.753993] xgb[3][2] current best score: 0.8797
+[2018-12-12 22:02:27.271098] xgb[3][3] current best score: 0.8878
+[2018-12-12 22:02:27.427041] xgb[3][1] current best score: 0.8929
+[2018-12-12 22:02:37.472943] xgb[4][2] current best score: 0.8797
+[2018-12-12 22:02:38.015378] xgb[4][3] current best score: 0.8878
+[2018-12-12 22:02:38.653145] xgb[4][1] current best score: 0.8929
+[2018-12-12 22:02:52.417052] xgb[5][2] current best score: 0.8797
+[2018-12-12 22:02:53.269695] xgb[5][3] current best score: 0.8878
+[2018-12-12 22:02:53.635133] xgb[5][1] current best score: 0.8929
+[2018-12-12 22:03:18.852554] xgb[6][2] current best score: 0.8810
+[2018-12-12 22:03:19.286112] xgb[6][1] current best score: 0.8929
+[2018-12-12 22:03:20.211695] xgb[6][3] current best score: 0.8878
+[2018-12-12 22:03:55.959142] xgb[7][2] current best score: 0.8992
+[2018-12-12 22:03:57.046367] xgb[7][1] current best score: 0.9154
+[2018-12-12 22:03:57.834610] xgb[7][3] current best score: 0.8940
+[2018-12-12 22:04:08.912590] xgb[8][2] current best score: 0.8992
+[2018-12-12 22:04:09.747502] xgb[8][1] current best score: 0.9154
+[2018-12-12 22:04:10.447911] xgb[8][3] current best score: 0.8940
+[2018-12-12 22:04:45.092969] xgb[9][2] current best score: 0.9079
+[2018-12-12 22:04:45.939609] xgb[9][1] current best score: 0.9177
+[2018-12-12 22:04:47.968178] xgb[9][3] current best score: 0.9044
+[2018-12-12 22:05:05.775932] xgb[10][2] current best score: 0.9079
+[2018-12-12 22:05:06.479921] xgb[10][1] current best score: 0.9177
+[2018-12-12 22:05:08.274504] xgb[10][3] current best score: 0.9044
+[2018-12-12 22:05:50.461139] xgb[11][2] current best score: 0.9206
+[2018-12-12 22:05:52.285538] xgb[11][1] current best score: 0.9231
+[2018-12-12 22:05:54.199032] xgb[11][3] current best score: 0.9267
+[2018-12-12 22:06:32.709344] xgb[12][2] current best score: 0.9206
+[2018-12-12 22:06:37.035233] xgb[12][1] current best score: 0.9231
+[2018-12-12 22:06:39.559249] xgb[12][3] current best score: 0.9267
+[2018-12-12 22:07:16.745411] xgb[13][2] current best score: 0.9206
+[2018-12-12 22:07:22.355202] xgb[13][1] current best score: 0.9237
+[2018-12-12 22:07:25.495308] xgb[13][3] current best score: 0.9267
+[2018-12-12 22:08:01.811756] xgb[14][2] current best score: 0.9206
+[2018-12-12 22:08:07.375900] xgb[14][1] current best score: 0.9237
+[2018-12-12 22:08:09.579241] xgb[14][3] current best score: 0.9267
+[2018-12-12 22:08:47.338741] xgb[15][2] current best score: 0.9220
+[2018-12-12 22:08:52.887930] xgb[15][1] current best score: 0.9237
+[2018-12-12 22:08:55.229533] xgb[15][3] current best score: 0.9267
+[2018-12-12 22:09:29.329838] xgb[16][2] current best score: 0.9220
+[2018-12-12 22:09:34.107491] xgb[16][1] current best score: 0.9237
+[2018-12-12 22:09:39.690172] xgb[16][3] current best score: 0.9267
+[2018-12-12 22:10:01.746398] xgb[17][2] current best score: 0.9220
+[2018-12-12 22:10:18.534254] xgb[17][1] current best score: 0.9237
+[2018-12-12 22:10:24.582487] xgb[17][3] current best score: 0.9267
+[2018-12-12 22:10:46.625453] xgb[18][2] current best score: 0.9220
+[2018-12-12 22:10:59.214217] xgb[18][1] current best score: 0.9237
+[2018-12-12 22:10:59.214953] xgb[18][1] stopped early
+[2018-12-12 22:11:05.747886] xgb[18][3] current best score: 0.9267
+[2018-12-12 22:11:05.748649] xgb[18][3] stopped early
+[2018-12-12 22:11:10.160627] (0) RESULTS [0:09:38.556933]: clf: xgb, p: 0.5, train: 1.0000, val: 0.9237, test: 0.9397
+[2018-12-12 22:11:10.160627] (1) BEST_PARAMS: n_estimators: 1024
+[2018-12-12 22:11:10.161174] Making 24 iterations on rfc_1 (0.5)
+[2018-12-12 22:11:22.130484] (0) RESULTS [0:09:50.525564]: clf: xgb, p: 0.5, train: 1.0000, val: 0.9267, test: 0.9391
+[2018-12-12 22:11:22.130484] (1) BEST_PARAMS: n_estimators: 1024
+[2018-12-12 22:11:22.131192] Making 24 iterations on rfc_3 (0.5)
+[2018-12-12 22:12:00.991824] xgb[19][2] current best score: 0.9220
+[2018-12-12 22:13:55.281975] xgb[20][2] current best score: 0.9220
+[2018-12-12 22:14:25.122606] (0) RESULTS [0:12:53.519221]: clf: xgb, p: 0.5, train: 1.0000, val: 0.9220, test: 0.9323
+[2018-12-12 22:14:25.122606] (1) BEST_PARAMS: n_estimators: 1024
+[2018-12-12 22:14:25.124724] Making 24 iterations on rfc_2 (0.5)
+[2018-12-12 22:15:59.806202] rfc[1][1] current best score: 0.9897
+[2018-12-12 22:16:36.300842] rfc[1][3] current best score: 0.9874
+[2018-12-12 22:20:29.699798] rfc[1][2] current best score: 0.9886
+[2018-12-12 22:22:28.238379] rfc[2][2] current best score: 0.9886
+[2018-12-12 22:26:26.282154] rfc[2][1] current best score: 0.9904
+[2018-12-12 22:26:34.993348] rfc[3][2] current best score: 0.9886
+[2018-12-12 22:27:39.868506] rfc[2][3] current best score: 0.9874
+[2018-12-12 22:34:56.270431] rfc[3][1] current best score: 0.9904
+[2018-12-12 22:35:39.851523] rfc[4][2] current best score: 0.9893
+[2018-12-12 22:36:26.365527] rfc[3][3] current best score: 0.9874
+[2018-12-12 22:42:03.801109] rfc[4][1] current best score: 0.9911
+[2018-12-12 22:42:45.438923] rfc[5][2] current best score: 0.9893
+[2018-12-12 22:43:57.653854] rfc[4][3] current best score: 0.9874
+[2018-12-12 22:47:08.633420] rfc[6][2] current best score: 0.9893
+[2018-12-12 22:49:11.637784] rfc[5][1] current best score: 0.9926
+[2018-12-12 22:51:19.048594] rfc[5][3] current best score: 0.9875
+[2018-12-12 22:51:35.892649] rfc[6][1] current best score: 0.9926
+[2018-12-12 22:53:47.740216] rfc[6][3] current best score: 0.9875
+[2018-12-12 22:55:43.314386] rfc[7][2] current best score: 0.9900
+[2018-12-12 22:58:26.346854] rfc[7][1] current best score: 0.9926
+[2018-12-12 22:59:05.249285] rfc[8][2] current best score: 0.9900
+[2018-12-12 23:01:03.393602] rfc[7][3] current best score: 0.9875
+[2018-12-12 23:01:03.394376] rfc[7][3] stopped early
+[2018-12-12 23:01:10.698847] rfc[9][2] current best score: 0.9900
+[2018-12-12 23:02:58.922167] (0) RESULTS [0:51:36.790981]: clf: rfc, p: 0.5, train: 1.0000, val: 0.9875, test: 0.9923
+[2018-12-12 23:02:58.922167] (1) BEST_PARAMS: max_features: 30
+[2018-12-12 23:02:58.922901] Making 40 iterations on ada_3 (0.5)
+[2018-12-12 23:03:29.636315] ada[1][3] current best score: 0.5254
+[2018-12-12 23:03:48.805989] rfc[8][1] current best score: 0.9926
+[2018-12-12 23:04:46.427798] ada[2][3] current best score: 0.5254
+[2018-12-12 23:06:58.239834] rfc[9][1] current best score: 0.9926
+[2018-12-12 23:08:13.563644] ada[3][3] current best score: 0.5254
+[2018-12-12 23:08:46.332567] rfc[10][2] current best score: 0.9900
+[2018-12-12 23:10:28.389171] ada[4][3] current best score: 0.5254
+[2018-12-12 23:12:15.197202] rfc[10][1] current best score: 0.9926
+[2018-12-12 23:12:50.155110] rfc[11][1] current best score: 0.9926
+[2018-12-12 23:13:53.865412] ada[5][3] current best score: 0.5254
+[2018-12-12 23:14:28.798055] ada[6][3] current best score: 0.5254
+[2018-12-12 23:14:49.696386] ada[7][3] current best score: 0.5254
+[2018-12-12 23:14:49.715678] ada[7][3] stopped early
+[2018-12-12 23:14:58.068036] (0) RESULTS [0:11:59.145145]: clf: ada, p: 0.5, train: 0.7284, val: 0.5254, test: 0.5061
+[2018-12-12 23:14:58.068036] (1) BEST_PARAMS: learning_rate: 0.8975497873717344, n_estimators: 138
+[2018-12-12 23:14:58.068803] Making 20 iterations on svc_lin_3 (0.5)
+[2018-12-12 23:14:58.508708] svc_lin[1][3] current best score: 0.4723
+[2018-12-12 23:14:58.675885] svc_lin[2][3] current best score: 0.4723
+[2018-12-12 23:14:58.862353] svc_lin[3][3] current best score: 0.4723
+[2018-12-12 23:14:59.076698] svc_lin[4][3] current best score: 0.4723
+[2018-12-12 23:14:59.246549] svc_lin[5][3] current best score: 0.4723
+[2018-12-12 23:14:59.430922] svc_lin[6][3] current best score: 0.4723
+[2018-12-12 23:15:07.119659] svc_lin[7][3] current best score: 0.5149
+[2018-12-12 23:15:07.352998] svc_lin[8][3] current best score: 0.5149
+[2018-12-12 23:15:07.596301] svc_lin[9][3] current best score: 0.5149
+[2018-12-12 23:15:16.091767] svc_lin[10][3] current best score: 0.5149
+[2018-12-12 23:15:25.857007] svc_lin[11][3] current best score: 0.5149
+[2018-12-12 23:15:34.394160] svc_lin[12][3] current best score: 0.5149
+[2018-12-12 23:15:43.698845] rfc[12][1] current best score: 0.9926
+[2018-12-12 23:15:43.699653] rfc[12][1] stopped early
+[2018-12-12 23:15:43.804425] svc_lin[13][3] current best score: 0.5149
+[2018-12-12 23:15:55.055755] svc_lin[14][3] current best score: 0.5149
+[2018-12-12 23:15:55.056755] svc_lin[14][3] stopped early
+[2018-12-12 23:15:57.942313] (0) RESULTS [0:00:59.873521]: clf: svc_lin, p: 0.5, train: 0.5257, val: 0.5149, test: 0.5042
+[2018-12-12 23:15:57.942313] (1) BEST_PARAMS: C: 14.532000465707267
+[2018-12-12 23:15:57.943205] Making 24 iterations on svc_rbf_3 (0.5)
+[2018-12-12 23:16:14.336221] svc_rbf[1][3] current best score: 0.0000
+[2018-12-12 23:16:31.952789] svc_rbf[2][3] current best score: 0.9858
+[2018-12-12 23:16:45.113775] svc_rbf[3][3] current best score: 0.9858
+[2018-12-12 23:16:57.718703] svc_rbf[4][3] current best score: 0.9858
+[2018-12-12 23:17:10.347925] svc_rbf[5][3] current best score: 0.9858
+[2018-12-12 23:17:13.766088] (0) RESULTS [1:06:03.604917]: clf: rfc, p: 0.5, train: 1.0000, val: 0.9926, test: 0.9939
+[2018-12-12 23:17:13.766088] (1) BEST_PARAMS: max_features: 30
+[2018-12-12 23:17:13.766852] Making 40 iterations on ada_1 (0.5)
+[2018-12-12 23:17:19.534358] svc_rbf[6][3] current best score: 0.9858
+[2018-12-12 23:17:20.518702] rfc[11][2] current best score: 0.9900
+[2018-12-12 23:17:20.519540] rfc[11][2] stopped early
+[2018-12-12 23:17:27.041065] svc_rbf[7][3] current best score: 0.9858
+[2018-12-12 23:17:36.474032] svc_rbf[8][3] current best score: 0.9858
+[2018-12-12 23:17:45.868705] svc_rbf[9][3] current best score: 0.9858
+[2018-12-12 23:17:45.869530] svc_rbf[9][3] stopped early
+[2018-12-12 23:17:49.337980] (0) RESULTS [0:01:51.394787]: clf: svc_rbf, p: 0.5, train: 1.0000, val: 0.9858, test: 0.9987
+[2018-12-12 23:17:49.337980] (1) BEST_PARAMS: C: 5.660140617232098, gamma: 0.012036447739799921
+[2018-12-12 23:17:49.351052] Making 32 iterations on knn_3 (0.5)
+[2018-12-12 23:17:59.591966] knn[1][3] current best score: 0.1273
+[2018-12-12 23:18:04.293585] knn[2][3] current best score: 0.1273
+[2018-12-12 23:18:10.121033] knn[3][3] current best score: 0.1273
+[2018-12-12 23:18:18.827965] knn[4][3] current best score: 0.2691
+[2018-12-12 23:18:26.880920] knn[5][3] current best score: 0.2691
+[2018-12-12 23:18:29.743967] knn[6][3] current best score: 0.9851
+[2018-12-12 23:18:36.021383] (0) RESULTS [1:04:10.896675]: clf: rfc, p: 0.5, train: 1.0000, val: 0.9900, test: 0.9955
+[2018-12-12 23:18:36.021383] (1) BEST_PARAMS: max_features: 36
+[2018-12-12 23:18:36.022311] Making 40 iterations on ada_2 (0.5)
+[2018-12-12 23:18:37.942473] knn[7][3] current best score: 0.9851
+[2018-12-12 23:18:43.133862] knn[8][3] current best score: 0.9851
+[2018-12-12 23:18:47.965125] knn[9][3] current best score: 0.9851
+[2018-12-12 23:18:53.954350] knn[10][3] current best score: 0.9851
+[2018-12-12 23:18:56.282597] knn[11][3] current best score: 0.9965
+[2018-12-12 23:18:59.608374] knn[12][3] current best score: 0.9981
+[2018-12-12 23:19:03.341373] knn[13][3] current best score: 0.9981
+[2018-12-12 23:19:06.462531] knn[14][3] current best score: 0.9981
+[2018-12-12 23:19:08.589864] knn[15][3] current best score: 0.9981
+[2018-12-12 23:19:11.946374] knn[16][3] current best score: 1.0000
+[2018-12-12 23:19:11.947053] knn[16][3] stopped early
+[2018-12-12 23:19:12.476831] (0) RESULTS [0:01:23.136642]: clf: knn, p: 0.5, train: 1.0000, val: 1.0000, test: 0.9994
+[2018-12-12 23:19:12.476831] (1) BEST_PARAMS: n_neighbors: 16, weights: distance
+[2018-12-12 23:19:12.477453] Making 16 iterations on logreg_3 (0.5)
+[2018-12-12 23:19:12.540306] logreg[1][3] current best score: 0.4414
+[2018-12-12 23:19:12.611558] logreg[2][3] current best score: 0.4444
+[2018-12-12 23:19:12.677080] logreg[3][3] current best score: 0.4453
+[2018-12-12 23:19:12.736713] logreg[4][3] current best score: 0.4453
+[2018-12-12 23:19:12.808807] logreg[5][3] current best score: 0.4472
+[2018-12-12 23:19:12.861282] logreg[6][3] current best score: 0.4534
+[2018-12-12 23:19:12.933436] logreg[7][3] current best score: 0.4534
+[2018-12-12 23:19:12.997897] logreg[8][3] current best score: 0.4643
+[2018-12-12 23:19:13.097386] logreg[9][3] current best score: 0.4643
+[2018-12-12 23:19:13.574953] logreg[10][3] current best score: 0.4643
+[2018-12-12 23:19:14.287869] logreg[11][3] current best score: 0.4643
+[2018-12-12 23:19:14.946358] logreg[12][3] current best score: 0.4643
+[2018-12-12 23:19:15.701938] logreg[13][3] current best score: 0.4643
+[2018-12-12 23:19:16.350899] logreg[14][3] current best score: 0.4643
+[2018-12-12 23:19:17.126127] logreg[15][3] current best score: 0.4643
+[2018-12-12 23:19:17.126920] logreg[15][3] stopped early
+[2018-12-12 23:19:17.138170] (0) RESULTS [0:00:04.660675]: clf: logreg, p: 0.5, train: 0.5300, val: 0.4643, test: 0.4506
+[2018-12-12 23:19:17.138170] (1) BEST_PARAMS: C: 4.312939632043683e-05
+[2018-12-12 23:19:17.139954] TRIAL #3, TRAIN SZ: 4988, TEST SZ: 1247
+[2018-12-12 23:19:17.140683] Making 20 iterations on xgb_3 (0.8)
+[2018-12-12 23:19:19.009206] xgb[1][3] current best score: 0.6820
+[2018-12-12 23:19:23.543810] ada[1][1] current best score: 0.1579
+[2018-12-12 23:19:25.201647] xgb[2][3] current best score: 0.7724
+[2018-12-12 23:19:37.189694] ada[1][2] current best score: 0.2824
+[2018-12-12 23:19:49.925270] ada[2][2] current best score: 0.3225
+[2018-12-12 23:19:51.217888] ada[2][1] current best score: 0.2774
+[2018-12-12 23:20:31.996598] xgb[3][3] current best score: 0.9427
+[2018-12-12 23:20:50.273243] xgb[4][3] current best score: 0.9427
+[2018-12-12 23:21:14.449877] ada[3][1] current best score: 0.5365
+[2018-12-12 23:21:21.310489] xgb[5][3] current best score: 0.9427
+[2018-12-12 23:21:21.504093] ada[3][2] current best score: 0.5337
+[2018-12-12 23:21:32.946335] xgb[6][3] current best score: 0.9427
+[2018-12-12 23:21:58.163570] ada[4][1] current best score: 0.5365
+[2018-12-12 23:22:20.963066] ada[4][2] current best score: 0.5337
+[2018-12-12 23:22:32.541987] xgb[7][3] current best score: 0.9427
+[2018-12-12 23:22:40.741972] xgb[8][3] current best score: 0.9427
+[2018-12-12 23:23:08.821147] ada[5][1] current best score: 0.5365
+[2018-12-12 23:23:40.716222] xgb[9][3] current best score: 0.9427
+[2018-12-12 23:23:44.097681] ada[5][2] current best score: 0.5337
+[2018-12-12 23:23:44.807765] ada[6][2] current best score: 0.5447
+[2018-12-12 23:24:01.057968] ada[6][1] current best score: 0.5365
+[2018-12-12 23:24:13.791341] xgb[10][3] current best score: 0.9427
+[2018-12-12 23:24:13.792218] xgb[10][3] stopped early
+[2018-12-12 23:24:30.253975] (0) RESULTS [0:05:13.113323]: clf: xgb, p: 0.8, train: 1.0000, val: 0.9427, test: 0.9559
+[2018-12-12 23:24:30.253975] (1) BEST_PARAMS: n_estimators: 957
+[2018-12-12 23:24:30.254538] Making 24 iterations on rfc_3 (0.8)
+[2018-12-12 23:25:01.016246] ada[7][2] current best score: 0.5447
+[2018-12-12 23:25:51.704665] ada[7][1] current best score: 0.5365
+[2018-12-12 23:26:35.670254] ada[8][2] current best score: 0.5447
+[2018-12-12 23:26:45.750051] ada[8][1] current best score: 0.5365
+[2018-12-12 23:28:24.263720] rfc[1][3] current best score: 0.9972
+[2018-12-12 23:29:12.308320] ada[9][2] current best score: 0.5447
+[2018-12-12 23:29:13.864661] ada[9][1] current best score: 0.5365
+[2018-12-12 23:31:45.222222] ada[10][2] current best score: 0.5447
+[2018-12-12 23:31:45.390421] rfc[2][3] current best score: 0.9975
+[2018-12-12 23:31:52.878128] ada[10][1] current best score: 0.5365
+[2018-12-12 23:31:52.878991] ada[10][1] stopped early
+[2018-12-12 23:32:13.868924] ada[11][2] current best score: 0.5447
+[2018-12-12 23:32:16.745325] ada[12][2] current best score: 0.5509
+[2018-12-12 23:32:19.604116] ada[13][2] current best score: 0.5509
+[2018-12-12 23:32:22.472011] ada[14][2] current best score: 0.6520
+[2018-12-12 23:32:29.337982] (0) RESULTS [0:15:15.571146]: clf: ada, p: 0.5, train: 0.9558, val: 0.5365, test: 0.5391
+[2018-12-12 23:32:29.337982] (1) BEST_PARAMS: learning_rate: 1.4213658044338218, n_estimators: 906
+[2018-12-12 23:32:29.338738] Making 20 iterations on svc_lin_1 (0.5)
+[2018-12-12 23:32:34.704418] svc_lin[1][1] current best score: 0.5013
+[2018-12-12 23:32:40.191380] svc_lin[2][1] current best score: 0.5013
+[2018-12-12 23:32:40.430552] svc_lin[3][1] current best score: 0.5013
+[2018-12-12 23:32:40.588227] svc_lin[4][1] current best score: 0.5013
+[2018-12-12 23:32:41.071942] ada[15][2] current best score: 0.6520
+[2018-12-12 23:32:45.188026] ada[16][2] current best score: 0.6520
+[2018-12-12 23:32:47.046558] svc_lin[5][1] current best score: 0.5013
+[2018-12-12 23:32:47.230306] svc_lin[6][1] current best score: 0.5013
+[2018-12-12 23:32:47.487171] svc_lin[7][1] current best score: 0.5013
+[2018-12-12 23:32:47.487977] svc_lin[7][1] stopped early
+[2018-12-12 23:32:48.526651] ada[17][2] current best score: 0.6520
+[2018-12-12 23:32:49.177900] (0) RESULTS [0:00:19.839175]: clf: svc_lin, p: 0.5, train: 0.5521, val: 0.5013, test: 0.5016
+[2018-12-12 23:32:49.177900] (1) BEST_PARAMS: C: 129.6226657569297
+[2018-12-12 23:32:49.178678] Making 24 iterations on svc_rbf_1 (0.5)
+[2018-12-12 23:32:58.858762] svc_rbf[1][1] current best score: 0.2575
+[2018-12-12 23:33:08.032349] svc_rbf[2][1] current best score: 0.7251
+[2018-12-12 23:33:16.485097] svc_rbf[3][1] current best score: 0.7251
+[2018-12-12 23:33:23.887314] svc_rbf[4][1] current best score: 0.7251
+[2018-12-12 23:33:32.305286] svc_rbf[5][1] current best score: 0.7251
+[2018-12-12 23:33:45.201427] svc_rbf[6][1] current best score: 0.7251
+[2018-12-12 23:33:57.234033] svc_rbf[7][1] current best score: 0.9875
+[2018-12-12 23:34:05.642409] svc_rbf[8][1] current best score: 0.9875
+[2018-12-12 23:34:14.003397] svc_rbf[9][1] current best score: 0.9875
+[2018-12-12 23:34:24.457822] svc_rbf[10][1] current best score: 0.9875
+[2018-12-12 23:34:39.916881] svc_rbf[11][1] current best score: 0.9875
+[2018-12-12 23:35:24.905433] svc_rbf[12][1] current best score: 0.9875
+[2018-12-12 23:35:28.430025] (0) RESULTS [0:02:39.251345]: clf: svc_rbf, p: 0.5, train: 1.0000, val: 0.9875, test: 0.9968
+[2018-12-12 23:35:28.430025] (1) BEST_PARAMS: C: 128.09813795941776, gamma: 0.012110820402827231
+[2018-12-12 23:35:28.433437] Making 32 iterations on knn_1 (0.5)
+[2018-12-12 23:35:34.324577] ada[18][2] current best score: 0.6520
+[2018-12-12 23:35:37.058989] knn[1][1] current best score: 0.0091
+[2018-12-12 23:35:38.147825] ada[19][2] current best score: 0.6520
+[2018-12-12 23:35:41.719363] knn[2][1] current best score: 0.0091
+[2018-12-12 23:35:53.373024] knn[3][1] current best score: 0.5612
+[2018-12-12 23:35:57.443759] knn[4][1] current best score: 0.5612
+[2018-12-12 23:36:08.262505] knn[5][1] current best score: 0.5612
+[2018-12-12 23:36:14.314315] knn[6][1] current best score: 0.5612
+[2018-12-12 23:36:20.751644] knn[7][1] current best score: 0.5612
+[2018-12-12 23:36:27.634796] knn[8][1] current best score: 0.5612
+[2018-12-12 23:36:32.604278] knn[9][1] current best score: 0.5612
+[2018-12-12 23:36:39.408066] knn[10][1] current best score: 0.5612
+[2018-12-12 23:36:39.408841] knn[10][1] stopped early
+[2018-12-12 23:36:42.257985] (0) RESULTS [0:01:13.825880]: clf: knn, p: 0.5, train: 1.0000, val: 0.5612, test: 0.5337
+[2018-12-12 23:36:42.257985] (1) BEST_PARAMS: n_neighbors: 2289, weights: distance
+[2018-12-12 23:36:42.258745] Making 16 iterations on logreg_1 (0.5)
+[2018-12-12 23:36:42.434914] logreg[1][1] current best score: 0.4543
+[2018-12-12 23:36:42.591870] logreg[2][1] current best score: 0.4702
+[2018-12-12 23:36:42.754528] logreg[3][1] current best score: 0.4702
+[2018-12-12 23:36:42.916619] logreg[4][1] current best score: 0.4702
+[2018-12-12 23:36:43.108457] logreg[5][1] current best score: 0.4702
+[2018-12-12 23:36:43.258954] logreg[6][1] current best score: 0.4702
+[2018-12-12 23:36:43.418957] logreg[7][1] current best score: 0.4702
+[2018-12-12 23:36:43.567223] logreg[8][1] current best score: 0.4702
+[2018-12-12 23:36:43.663261] logreg[9][1] current best score: 0.4702
+[2018-12-12 23:36:43.664013] logreg[9][1] stopped early
+[2018-12-12 23:36:43.676141] (0) RESULTS [0:00:01.417365]: clf: logreg, p: 0.5, train: 0.5505, val: 0.4702, test: 0.4660
+[2018-12-12 23:36:43.676141] (1) BEST_PARAMS: C: 2.3601981027141046e-06
+[2018-12-12 23:36:43.678371] TRIAL #1, TRAIN SZ: 4988, TEST SZ: 1247
+[2018-12-12 23:36:43.679107] Making 20 iterations on xgb_1 (0.8)
+[2018-12-12 23:36:43.858904] ada[20][2] current best score: 0.6520
+[2018-12-12 23:36:43.957866] (0) RESULTS [0:18:07.935478]: clf: ada, p: 0.5, train: 0.8882, val: 0.6520, test: 0.5000
+[2018-12-12 23:36:43.957866] (1) BEST_PARAMS: learning_rate: 3.020639674375487, n_estimators: 2
+[2018-12-12 23:36:43.959327] Making 20 iterations on svc_lin_2 (0.5)
+[2018-12-12 23:36:48.336061] svc_lin[1][2] current best score: 0.4717
+[2018-12-12 23:36:49.292906] svc_lin[2][2] current best score: 0.4717
+[2018-12-12 23:36:49.475634] svc_lin[3][2] current best score: 0.4750
+[2018-12-12 23:36:49.773651] svc_lin[4][2] current best score: 0.4750
+[2018-12-12 23:36:49.959548] svc_lin[5][2] current best score: 0.4890
+[2018-12-12 23:36:55.159513] svc_lin[6][2] current best score: 0.5019
+[2018-12-12 23:37:00.337415] svc_lin[7][2] current best score: 0.5019
+[2018-12-12 23:37:01.554483] svc_lin[8][2] current best score: 0.5019
+[2018-12-12 23:37:01.691691] svc_lin[9][2] current best score: 0.5019
+[2018-12-12 23:37:02.518025] svc_lin[10][2] current best score: 0.5019
+[2018-12-12 23:37:08.850331] svc_lin[11][2] current best score: 0.5019
+[2018-12-12 23:37:15.171885] svc_lin[12][2] current best score: 0.5066
+[2018-12-12 23:37:21.656861] svc_lin[13][2] current best score: 0.5066
+[2018-12-12 23:37:23.462643] xgb[1][1] current best score: 0.8846
+[2018-12-12 23:37:28.267742] svc_lin[14][2] current best score: 0.5066
+[2018-12-12 23:37:34.716478] svc_lin[15][2] current best score: 0.5066
+[2018-12-12 23:37:41.103681] svc_lin[16][2] current best score: 0.5335
+[2018-12-12 23:37:42.728126] svc_lin[17][2] current best score: 0.5335
+[2018-12-12 23:37:49.077036] svc_lin[18][2] current best score: 0.5335
+[2018-12-12 23:37:50.536712] svc_lin[19][2] current best score: 0.5335
+[2018-12-12 23:37:56.797800] svc_lin[20][2] current best score: 0.5335
+[2018-12-12 23:37:58.310174] (0) RESULTS [0:01:14.350884]: clf: svc_lin, p: 0.5, train: 0.5381, val: 0.5335, test: 0.4843
+[2018-12-12 23:37:58.310174] (1) BEST_PARAMS: C: 995.2351633605247
+[2018-12-12 23:37:58.311061] Making 24 iterations on svc_rbf_2 (0.5)
+[2018-12-12 23:38:03.747840] xgb[2][1] current best score: 0.8876
+[2018-12-12 23:38:08.155244] svc_rbf[1][2] current best score: 0.0000
+[2018-12-12 23:38:15.917040] xgb[3][1] current best score: 0.8876
+[2018-12-12 23:38:16.758702] svc_rbf[2][2] current best score: 0.1273
+[2018-12-12 23:38:24.208738] svc_rbf[3][2] current best score: 0.1273
+[2018-12-12 23:38:32.446853] svc_rbf[4][2] current best score: 0.1273
+[2018-12-12 23:38:40.721130] svc_rbf[5][2] current best score: 0.1273
+[2018-12-12 23:38:49.124849] svc_rbf[6][2] current best score: 0.2516
+[2018-12-12 23:38:59.895201] svc_rbf[7][2] current best score: 0.2516
+[2018-12-12 23:39:08.994622] svc_rbf[8][2] current best score: 0.9983
+[2018-12-12 23:39:17.498332] svc_rbf[9][2] current best score: 0.9983
+[2018-12-12 23:39:27.543338] svc_rbf[10][2] current best score: 0.9983
+[2018-12-12 23:40:03.987510] rfc[3][3] current best score: 0.9975
+[2018-12-12 23:40:20.912482] xgb[4][1] current best score: 0.9441
+[2018-12-12 23:40:43.533485] xgb[5][1] current best score: 0.9441
+[2018-12-12 23:40:51.557916] svc_rbf[11][2] current best score: 0.9983
+[2018-12-12 23:41:03.376402] svc_rbf[12][2] current best score: 0.9983
+[2018-12-12 23:41:05.974526] (0) RESULTS [0:03:07.663473]: clf: svc_rbf, p: 0.5, train: 1.0000, val: 0.9983, test: 0.9997
+[2018-12-12 23:41:05.974526] (1) BEST_PARAMS: C: 537.8009983738049, gamma: 0.10043767901096222
+[2018-12-12 23:41:05.977651] Making 32 iterations on knn_2 (0.5)
+[2018-12-12 23:41:10.375902] knn[1][2] current best score: 0.0022
+[2018-12-12 23:41:15.348486] knn[2][2] current best score: 0.0054
+[2018-12-12 23:41:21.569734] knn[3][2] current best score: 0.0054
+[2018-12-12 23:41:29.735591] knn[4][2] current best score: 0.0119
+[2018-12-12 23:41:37.399898] knn[5][2] current best score: 0.0119
+[2018-12-12 23:41:44.898448] knn[6][2] current best score: 0.0119
+[2018-12-12 23:41:49.039566] xgb[6][1] current best score: 0.9441
+[2018-12-12 23:41:51.655761] knn[7][2] current best score: 0.0119
+[2018-12-12 23:41:58.785443] knn[8][2] current best score: 0.0119
+[2018-12-12 23:42:01.836218] knn[9][2] current best score: 0.7556
+[2018-12-12 23:42:08.666935] knn[10][2] current best score: 0.7556
+[2018-12-12 23:42:11.518911] knn[11][2] current best score: 0.9967
+[2018-12-12 23:42:14.368957] knn[12][2] current best score: 0.9974
+[2018-12-12 23:42:28.835733] knn[13][2] current best score: 0.9974
+[2018-12-12 23:42:31.517138] knn[14][2] current best score: 0.9990
+[2018-12-12 23:42:34.189577] knn[15][2] current best score: 0.9990
+[2018-12-12 23:42:37.141203] knn[16][2] current best score: 0.9990
+[2018-12-12 23:42:37.812277] (0) RESULTS [0:01:31.835793]: clf: knn, p: 0.5, train: 1.0000, val: 0.9990, test: 1.0000
+[2018-12-12 23:42:37.812277] (1) BEST_PARAMS: n_neighbors: 1, weights: uniform
+[2018-12-12 23:42:37.814846] Making 16 iterations on logreg_2 (0.5)
+[2018-12-12 23:42:38.015004] logreg[1][2] current best score: 0.4608
+[2018-12-12 23:42:38.188300] logreg[2][2] current best score: 0.4646
+[2018-12-12 23:42:38.336646] logreg[3][2] current best score: 0.4800
+[2018-12-12 23:42:38.500450] logreg[4][2] current best score: 0.4800
+[2018-12-12 23:42:38.694003] logreg[5][2] current best score: 0.4800
+[2018-12-12 23:42:38.880176] logreg[6][2] current best score: 0.4800
+[2018-12-12 23:42:39.016769] logreg[7][2] current best score: 0.4800
+[2018-12-12 23:42:39.164460] logreg[8][2] current best score: 0.4800
+[2018-12-12 23:42:39.313716] logreg[9][2] current best score: 0.4800
+[2018-12-12 23:42:40.168487] logreg[10][2] current best score: 0.4800
+[2018-12-12 23:42:40.169367] logreg[10][2] stopped early
+[2018-12-12 23:42:40.197026] (0) RESULTS [0:00:02.382248]: clf: logreg, p: 0.5, train: 0.5402, val: 0.4800, test: 0.4641
+[2018-12-12 23:42:40.197026] (1) BEST_PARAMS: C: 0.1766242692615142
+[2018-12-12 23:42:40.198806] TRIAL #2, TRAIN SZ: 4988, TEST SZ: 1247
+[2018-12-12 23:42:40.199527] Making 20 iterations on xgb_2 (0.8)
+[2018-12-12 23:42:40.209272] xgb[7][1] current best score: 0.9441
+[2018-12-12 23:43:07.504898] xgb[8][1] current best score: 0.9441
+[2018-12-12 23:43:09.266220] xgb[9][1] current best score: 0.9441
+[2018-12-12 23:44:20.643333] xgb[10][1] current best score: 0.9441
+[2018-12-12 23:44:33.930749] xgb[1][2] current best score: 0.9434
+[2018-12-12 23:45:32.198737] xgb[2][2] current best score: 0.9434
+[2018-12-12 23:46:14.738580] xgb[3][2] current best score: 0.9434
+[2018-12-12 23:46:17.882803] xgb[11][1] current best score: 0.9441
+[2018-12-12 23:46:17.883619] xgb[11][1] stopped early
+[2018-12-12 23:46:52.122939] (0) RESULTS [0:10:08.443854]: clf: xgb, p: 0.8, train: 1.0000, val: 0.9441, test: 0.9551
+[2018-12-12 23:46:52.122939] (1) BEST_PARAMS: n_estimators: 970
+[2018-12-12 23:46:52.145185] Making 24 iterations on rfc_1 (0.8)
+[2018-12-12 23:48:15.187983] rfc[4][3] current best score: 0.9975
+[2018-12-12 23:49:04.286653] xgb[4][2] current best score: 0.9442
+[2018-12-12 23:51:26.369082] xgb[5][2] current best score: 0.9442
+[2018-12-12 23:51:57.272908] xgb[6][2] current best score: 0.9442
+[2018-12-12 23:53:24.316039] xgb[7][2] current best score: 0.9442
+[2018-12-12 23:53:24.316845] xgb[7][2] stopped early
+[2018-12-12 23:53:45.740248] rfc[5][3] current best score: 0.9982
+[2018-12-12 23:54:09.137650] (0) RESULTS [0:11:28.938157]: clf: xgb, p: 0.8, train: 1.0000, val: 0.9442, test: 0.9687
+[2018-12-12 23:54:09.137650] (1) BEST_PARAMS: n_estimators: 958
+[2018-12-12 23:54:09.157094] Making 24 iterations on rfc_2 (0.8)
+[2018-12-12 23:58:19.658558] rfc[1][1] current best score: 0.9952
+[2018-12-13 00:04:42.913649] rfc[2][1] current best score: 0.9975
+[2018-12-13 00:11:05.524259] rfc[1][2] current best score: 0.9909
+[2018-12-13 00:11:23.176511] rfc[6][3] current best score: 0.9982
+[2018-12-13 00:18:37.569443] rfc[7][3] current best score: 0.9982
+[2018-12-13 00:18:37.570193] rfc[7][3] stopped early
+[2018-12-13 00:20:27.236762] (0) RESULTS [0:55:56.982238]: clf: rfc, p: 0.8, train: 1.0000, val: 0.9982, test: 0.9992
+[2018-12-13 00:20:27.236762] (1) BEST_PARAMS: max_features: 16
+[2018-12-13 00:20:27.237506] Making 40 iterations on ada_3 (0.8)
+[2018-12-13 00:20:36.010428] ada[1][3] current best score: 0.5577
+[2018-12-13 00:22:13.579266] rfc[3][1] current best score: 0.9975
+[2018-12-13 00:25:32.261163] ada[2][3] current best score: 0.5577
+[2018-12-13 00:26:07.293594] rfc[2][2] current best score: 0.9909
+[2018-12-13 00:30:38.584143] ada[3][3] current best score: 0.5577
+[2018-12-13 00:30:59.630195] ada[4][3] current best score: 0.5577
+[2018-12-13 00:31:26.507851] ada[5][3] current best score: 0.5577
+[2018-12-13 00:32:24.636503] rfc[4][1] current best score: 0.9975
+[2018-12-13 00:33:30.307383] ada[6][3] current best score: 0.5577
+[2018-12-13 00:34:40.384703] ada[7][3] current best score: 0.5577
+[2018-12-13 00:34:40.385462] ada[7][3] stopped early
+[2018-12-13 00:34:44.237023] (0) RESULTS [0:14:16.999530]: clf: ada, p: 0.8, train: 0.5495, val: 0.5577, test: 0.4996
+[2018-12-13 00:34:44.237023] (1) BEST_PARAMS: learning_rate: 25.937675078070363, n_estimators: 389
+[2018-12-13 00:34:44.237750] Making 20 iterations on svc_lin_3 (0.8)
+[2018-12-13 00:34:58.726388] svc_lin[1][3] current best score: 0.4821
+[2018-12-13 00:34:59.043853] svc_lin[2][3] current best score: 0.4821
+[2018-12-13 00:35:12.953425] svc_lin[3][3] current best score: 0.4821
+[2018-12-13 00:35:13.203540] svc_lin[4][3] current best score: 0.4821
+[2018-12-13 00:35:26.890620] svc_lin[5][3] current best score: 0.4970
+[2018-12-13 00:35:41.529261] svc_lin[6][3] current best score: 0.4970
+[2018-12-13 00:35:42.015534] svc_lin[7][3] current best score: 0.4970
+[2018-12-13 00:35:42.388924] svc_lin[8][3] current best score: 0.4970
+[2018-12-13 00:35:42.618199] svc_lin[9][3] current best score: 0.4970
+[2018-12-13 00:35:44.083243] svc_lin[10][3] current best score: 0.4970
+[2018-12-13 00:35:57.436684] rfc[5][1] current best score: 0.9975
+[2018-12-13 00:35:58.967488] svc_lin[11][3] current best score: 0.4970
+[2018-12-13 00:36:12.872400] svc_lin[12][3] current best score: 0.5116
+[2018-12-13 00:36:27.816752] svc_lin[13][3] current best score: 0.5116
+[2018-12-13 00:36:42.957568] svc_lin[14][3] current best score: 0.5116
+[2018-12-13 00:36:58.034556] svc_lin[15][3] current best score: 0.5116
+[2018-12-13 00:37:09.563210] rfc[6][1] current best score: 0.9975
+[2018-12-13 00:37:13.341604] svc_lin[16][3] current best score: 0.5116
+[2018-12-13 00:37:15.466300] svc_lin[17][3] current best score: 0.5116
+[2018-12-13 00:37:31.403602] svc_lin[18][3] current best score: 0.5116
+[2018-12-13 00:37:47.928044] svc_lin[19][3] current best score: 0.5222
+[2018-12-13 00:38:04.028667] svc_lin[20][3] current best score: 0.5222
+[2018-12-13 00:38:07.905089] (0) RESULTS [0:03:23.667344]: clf: svc_lin, p: 0.8, train: 0.5177, val: 0.5222, test: 0.5020
+[2018-12-13 00:38:07.905089] (1) BEST_PARAMS: C: 997.0832112533203
+[2018-12-13 00:38:07.905855] Making 24 iterations on svc_rbf_3 (0.8)
+[2018-12-13 00:38:23.619330] rfc[3][2] current best score: 0.9916
+[2018-12-13 00:38:44.759959] svc_rbf[1][3] current best score: 1.0000
+[2018-12-13 00:39:16.236936] svc_rbf[2][3] current best score: 1.0000
+[2018-12-13 00:39:55.667897] rfc[4][2] current best score: 0.9916
+[2018-12-13 00:40:03.720223] svc_rbf[3][3] current best score: 1.0000
+[2018-12-13 00:40:36.873699] svc_rbf[4][3] current best score: 1.0000
+[2018-12-13 00:41:09.015859] svc_rbf[5][3] current best score: 1.0000
+[2018-12-13 00:41:40.018478] svc_rbf[6][3] current best score: 1.0000
+[2018-12-13 00:42:25.503496] svc_rbf[7][3] current best score: 1.0000
+[2018-12-13 00:42:25.504209] svc_rbf[7][3] stopped early
+[2018-12-13 00:42:32.979859] (0) RESULTS [0:04:25.074010]: clf: svc_rbf, p: 0.8, train: 1.0000, val: 1.0000, test: 1.0000
+[2018-12-13 00:42:32.979859] (1) BEST_PARAMS: C: 20.956570231193894, gamma: 0.02120124365892853
+[2018-12-13 00:42:32.983133] Making 32 iterations on knn_3 (0.8)
+[2018-12-13 00:43:03.508485] knn[1][3] current best score: 0.0672
+[2018-12-13 00:43:18.151853] knn[2][3] current best score: 0.0975
+[2018-12-13 00:43:36.691572] knn[3][3] current best score: 0.0975
+[2018-12-13 00:44:14.759944] knn[4][3] current best score: 0.5774
+[2018-12-13 00:44:47.968102] knn[5][3] current best score: 0.5774
+[2018-12-13 00:45:22.443726] knn[6][3] current best score: 0.5774
+[2018-12-13 00:45:45.326012] knn[7][3] current best score: 0.5774
+[2018-12-13 00:46:14.675722] knn[8][3] current best score: 0.5774
+[2018-12-13 00:46:40.944294] knn[9][3] current best score: 0.5774
+[2018-12-13 00:47:01.116209] knn[10][3] current best score: 0.5774
+[2018-12-13 00:47:41.781002] knn[11][3] current best score: 0.5774
+[2018-12-13 00:47:41.781853] knn[11][3] stopped early
+[2018-12-13 00:47:44.191860] (0) RESULTS [0:05:11.209941]: clf: knn, p: 0.8, train: 1.0000, val: 0.5774, test: 0.5068
+[2018-12-13 00:47:44.191860] (1) BEST_PARAMS: n_neighbors: 3728, weights: uniform
+[2018-12-13 00:47:44.192598] Making 16 iterations on logreg_3 (0.8)
+[2018-12-13 00:47:44.470763] logreg[1][3] current best score: 0.4320
+[2018-12-13 00:47:44.661185] logreg[2][3] current best score: 0.4320
+[2018-12-13 00:47:44.897241] logreg[3][3] current best score: 0.4320
+[2018-12-13 00:47:45.142030] logreg[4][3] current best score: 0.4446
+[2018-12-13 00:47:45.455247] logreg[5][3] current best score: 0.4446
+[2018-12-13 00:47:45.753369] logreg[6][3] current best score: 0.4446
+[2018-12-13 00:47:46.007953] logreg[7][3] current best score: 0.4446
+[2018-12-13 00:47:46.209920] logreg[8][3] current best score: 0.4446
+[2018-12-13 00:47:46.588440] logreg[9][3] current best score: 0.4446
+[2018-12-13 00:47:47.846560] logreg[10][3] current best score: 0.4446
+[2018-12-13 00:47:49.477009] logreg[11][3] current best score: 0.4446
+[2018-12-13 00:47:49.477756] logreg[11][3] stopped early
+[2018-12-13 00:47:49.548819] (0) RESULTS [0:00:05.356237]: clf: logreg, p: 0.8, train: 0.5150, val: 0.4446, test: 0.4483
+[2018-12-13 00:47:49.548819] (1) BEST_PARAMS: C: 116.88439906565273
+[2018-12-13 00:48:08.719248] rfc[7][1] current best score: 0.9975
+[2018-12-13 00:48:08.720001] rfc[7][1] stopped early
+[2018-12-13 00:49:11.958476] (0) RESULTS [1:02:19.813325]: clf: rfc, p: 0.8, train: 1.0000, val: 0.9975, test: 0.9984
+[2018-12-13 00:49:11.958476] (1) BEST_PARAMS: max_features: 13
+[2018-12-13 00:49:11.959207] Making 40 iterations on ada_1 (0.8)
+[2018-12-13 00:50:36.183543] ada[1][1] current best score: 0.1425
+[2018-12-13 00:51:43.555798] ada[2][1] current best score: 0.4740
+[2018-12-13 00:51:49.144547] rfc[5][2] current best score: 0.9916
+[2018-12-13 00:52:47.275294] ada[3][1] current best score: 0.5081
+[2018-12-13 00:54:37.656876] ada[4][1] current best score: 0.5081
+[2018-12-13 00:55:41.064441] ada[5][1] current best score: 0.5143
+[2018-12-13 00:55:51.978360] ada[6][1] current best score: 0.5676
+[2018-12-13 00:58:07.389918] ada[7][1] current best score: 0.5676
+[2018-12-13 00:58:26.668551] rfc[6][2] current best score: 0.9916
+[2018-12-13 01:01:02.327300] ada[8][1] current best score: 0.5676
+[2018-12-13 01:01:05.577991] ada[9][1] current best score: 0.5676
+[2018-12-13 01:03:53.403638] rfc[7][2] current best score: 0.9926
+[2018-12-13 01:04:07.245396] ada[10][1] current best score: 0.5676
+[2018-12-13 01:04:09.352696] ada[11][1] current best score: 0.5676
+[2018-12-13 01:06:32.199972] ada[12][1] current best score: 0.5676
+[2018-12-13 01:06:44.242140] ada[13][1] current best score: 0.5676
+[2018-12-13 01:06:44.243044] ada[13][1] stopped early
+[2018-12-13 01:06:46.484334] (0) RESULTS [0:17:34.525134]: clf: ada, p: 0.8, train: 0.6855, val: 0.5676, test: 0.5020
+[2018-12-13 01:06:46.484334] (1) BEST_PARAMS: learning_rate: 9.61974259212125, n_estimators: 395
+[2018-12-13 01:06:46.485110] Making 20 iterations on svc_lin_1 (0.8)
+[2018-12-13 01:06:46.694833] svc_lin[1][1] current best score: 0.4186
+[2018-12-13 01:06:54.681735] svc_lin[2][1] current best score: 0.4798
+[2018-12-13 01:06:54.875577] svc_lin[3][1] current best score: 0.4798
+[2018-12-13 01:07:02.736742] svc_lin[4][1] current best score: 0.4981
+[2018-12-13 01:07:02.989259] svc_lin[5][1] current best score: 0.4981
+[2018-12-13 01:07:03.246313] svc_lin[6][1] current best score: 0.4981
+[2018-12-13 01:07:11.010107] svc_lin[7][1] current best score: 0.4981
+[2018-12-13 01:07:11.212257] rfc[8][2] current best score: 0.9976
+[2018-12-13 01:07:11.389702] svc_lin[8][1] current best score: 0.4981
+[2018-12-13 01:07:11.490573] svc_lin[9][1] current best score: 0.4981
+[2018-12-13 01:07:19.647754] svc_lin[10][1] current best score: 0.4998
+[2018-12-13 01:07:28.422951] svc_lin[11][1] current best score: 0.4998
+[2018-12-13 01:07:37.158816] svc_lin[12][1] current best score: 0.4998
+[2018-12-13 01:07:45.871718] svc_lin[13][1] current best score: 0.5099
+[2018-12-13 01:07:54.612947] svc_lin[14][1] current best score: 0.5099
+[2018-12-13 01:08:03.454521] svc_lin[15][1] current best score: 0.5116
+[2018-12-13 01:08:12.337838] svc_lin[16][1] current best score: 0.5116
+[2018-12-13 01:08:21.115648] svc_lin[17][1] current best score: 0.5116
+[2018-12-13 01:08:28.968824] svc_lin[18][1] current best score: 0.5116
+[2018-12-13 01:08:37.776658] svc_lin[19][1] current best score: 0.5116
+[2018-12-13 01:08:46.529559] svc_lin[20][1] current best score: 0.5165
+[2018-12-13 01:08:48.707811] (0) RESULTS [0:02:02.222737]: clf: svc_lin, p: 0.8, train: 0.5245, val: 0.5165, test: 0.4988
+[2018-12-13 01:08:48.707811] (1) BEST_PARAMS: C: 1000.0
+[2018-12-13 01:08:48.708538] Making 24 iterations on svc_rbf_1 (0.8)
+[2018-12-13 01:09:06.820872] svc_rbf[1][1] current best score: 0.9167
+[2018-12-13 01:09:34.380769] svc_rbf[2][1] current best score: 0.9994
+[2018-12-13 01:09:52.193404] svc_rbf[3][1] current best score: 0.9994
+[2018-12-13 01:10:10.085477] svc_rbf[4][1] current best score: 0.9994
+[2018-12-13 01:10:27.901677] svc_rbf[5][1] current best score: 0.9994
+[2018-12-13 01:10:45.170879] svc_rbf[6][1] current best score: 0.9994
+[2018-12-13 01:11:03.135402] svc_rbf[7][1] current best score: 0.9994
+[2018-12-13 01:11:21.104686] svc_rbf[8][1] current best score: 0.9994
+[2018-12-13 01:11:38.952644] svc_rbf[9][1] current best score: 0.9994
+[2018-12-13 01:11:38.960378] svc_rbf[9][1] stopped early
+[2018-12-13 01:11:45.453309] (0) RESULTS [0:02:56.744780]: clf: svc_rbf, p: 0.8, train: 1.0000, val: 0.9994, test: 1.0000
+[2018-12-13 01:11:45.453309] (1) BEST_PARAMS: C: 377.3679017285441, gamma: 0.009692454125242035
+[2018-12-13 01:11:45.459214] Making 32 iterations on knn_1 (0.8)
+[2018-12-13 01:11:55.499503] knn[1][1] current best score: 0.2725
+[2018-12-13 01:12:10.355339] knn[2][1] current best score: 0.2725
+[2018-12-13 01:12:32.891859] knn[3][1] current best score: 0.2725
+[2018-12-13 01:12:52.130863] knn[4][1] current best score: 0.4595
+[2018-12-13 01:13:02.854745] rfc[9][2] current best score: 0.9976
+[2018-12-13 01:13:11.855419] knn[5][1] current best score: 0.4595
+[2018-12-13 01:13:25.253078] knn[6][1] current best score: 0.4595
+[2018-12-13 01:13:35.378256] knn[7][1] current best score: 0.4595
+[2018-12-13 01:13:56.411574] knn[8][1] current best score: 0.4595
+[2018-12-13 01:14:16.253534] knn[9][1] current best score: 0.4595
+[2018-12-13 01:14:34.669695] knn[10][1] current best score: 0.4595
+[2018-12-13 01:14:55.975765] knn[11][1] current best score: 0.4595
+[2018-12-13 01:14:55.976558] knn[11][1] stopped early
+[2018-12-13 01:14:57.298449] (0) RESULTS [0:03:11.843182]: clf: knn, p: 0.8, train: 1.0000, val: 0.4595, test: 0.4884
+[2018-12-13 01:14:57.298449] (1) BEST_PARAMS: n_neighbors: 3424, weights: uniform
+[2018-12-13 01:14:57.299225] Making 16 iterations on logreg_1 (0.8)
+[2018-12-13 01:14:57.506808] logreg[1][1] current best score: 0.4296
+[2018-12-13 01:14:57.753232] logreg[2][1] current best score: 0.4296
+[2018-12-13 01:14:57.947739] logreg[3][1] current best score: 0.4296
+[2018-12-13 01:14:58.069774] logreg[4][1] current best score: 0.4296
+[2018-12-13 01:14:58.267121] logreg[5][1] current best score: 0.4301
+[2018-12-13 01:14:58.473916] logreg[6][1] current best score: 0.4369
+[2018-12-13 01:14:58.741508] logreg[7][1] current best score: 0.4369
+[2018-12-13 01:14:58.931521] logreg[8][1] current best score: 0.4369
+[2018-12-13 01:14:59.067836] logreg[9][1] current best score: 0.4369
+[2018-12-13 01:14:59.853953] logreg[10][1] current best score: 0.4369
+[2018-12-13 01:15:00.878299] logreg[11][1] current best score: 0.4369
+[2018-12-13 01:15:01.874623] logreg[12][1] current best score: 0.4369
+[2018-12-13 01:15:02.983899] logreg[13][1] current best score: 0.4369
+[2018-12-13 01:15:02.984655] logreg[13][1] stopped early
+[2018-12-13 01:15:03.017378] (0) RESULTS [0:00:05.718190]: clf: logreg, p: 0.8, train: 0.5130, val: 0.4369, test: 0.4298
+[2018-12-13 01:15:03.017378] (1) BEST_PARAMS: C: 454.2062630007067
+[2018-12-13 01:15:48.426199] rfc[10][2] current best score: 0.9976
+[2018-12-13 01:16:13.513994] rfc[11][2] current best score: 0.9976
+[2018-12-13 01:16:38.377601] rfc[12][2] current best score: 0.9976
+[2018-12-13 01:19:55.358740] rfc[13][2] current best score: 0.9976
+[2018-12-13 01:23:05.203256] rfc[14][2] current best score: 0.9976
+[2018-12-13 01:25:49.223497] rfc[15][2] current best score: 0.9976
+[2018-12-13 01:25:49.224072] rfc[15][2] stopped early
+[2018-12-13 01:26:28.757411] (0) RESULTS [1:32:19.600341]: clf: rfc, p: 0.8, train: 1.0000, val: 0.9976, test: 0.9992
+[2018-12-13 01:26:28.757411] (1) BEST_PARAMS: max_features: 17
+[2018-12-13 01:26:28.758324] Making 40 iterations on ada_2 (0.8)
+[2018-12-13 01:28:16.263925] ada[1][2] current best score: 0.3779
+[2018-12-13 01:29:08.979143] ada[2][2] current best score: 0.4950
+[2018-12-13 01:30:15.849578] ada[3][2] current best score: 0.5106
+[2018-12-13 01:30:22.151236] ada[4][2] current best score: 0.5106
+[2018-12-13 01:30:34.436753] ada[5][2] current best score: 0.5332
+[2018-12-13 01:30:46.741832] ada[6][2] current best score: 0.5332
+[2018-12-13 01:31:00.552262] ada[7][2] current best score: 0.5332
+[2018-12-13 01:32:33.969597] ada[8][2] current best score: 0.5332
+[2018-12-13 01:33:15.407435] ada[9][2] current best score: 0.5332
+[2018-12-13 01:33:28.681944] ada[10][2] current best score: 0.5332
+[2018-12-13 01:33:32.497666] ada[11][2] current best score: 0.5332
+[2018-12-13 01:33:34.648460] ada[12][2] current best score: 0.5332
+[2018-12-13 01:33:34.649008] ada[12][2] stopped early
+[2018-12-13 01:33:37.102804] (0) RESULTS [0:07:08.344520]: clf: ada, p: 0.8, train: 0.7157, val: 0.5332, test: 0.4972
+[2018-12-13 01:33:37.102804] (1) BEST_PARAMS: learning_rate: 17.0159135163654, n_estimators: 957
+[2018-12-13 01:33:37.103367] Making 20 iterations on svc_lin_2 (0.8)
+[2018-12-13 01:33:37.225129] svc_lin[1][2] current best score: 0.4345
+[2018-12-13 01:33:37.420950] svc_lin[2][2] current best score: 0.4345
+[2018-12-13 01:33:38.315188] svc_lin[3][2] current best score: 0.4345
+[2018-12-13 01:33:42.254939] svc_lin[4][2] current best score: 0.5209
+[2018-12-13 01:33:43.166056] svc_lin[5][2] current best score: 0.5209
+[2018-12-13 01:33:47.085284] svc_lin[6][2] current best score: 0.5209
+[2018-12-13 01:33:47.286114] svc_lin[7][2] current best score: 0.5209
+[2018-12-13 01:33:47.466395] svc_lin[8][2] current best score: 0.5209
+[2018-12-13 01:33:47.559590] svc_lin[9][2] current best score: 0.5209
+[2018-12-13 01:33:47.891813] svc_lin[10][2] current best score: 0.5209
+[2018-12-13 01:33:52.275295] svc_lin[11][2] current best score: 0.5209
+[2018-12-13 01:33:52.275982] svc_lin[11][2] stopped early
+[2018-12-13 01:33:53.489172] (0) RESULTS [0:00:16.385823]: clf: svc_lin, p: 0.8, train: 0.5212, val: 0.5209, test: 0.4940
+[2018-12-13 01:33:53.489172] (1) BEST_PARAMS: C: 280.1996368088408
+[2018-12-13 01:33:53.489706] Making 24 iterations on svc_rbf_2 (0.8)
+[2018-12-13 01:34:05.120942] svc_rbf[1][2] current best score: 0.9951
+[2018-12-13 01:34:16.209860] svc_rbf[2][2] current best score: 0.9951
+[2018-12-13 01:34:27.129026] svc_rbf[3][2] current best score: 0.9951
+[2018-12-13 01:34:42.242310] svc_rbf[4][2] current best score: 0.9951
+[2018-12-13 01:34:52.985748] svc_rbf[5][2] current best score: 0.9951
+[2018-12-13 01:35:05.331459] svc_rbf[6][2] current best score: 0.9951
+[2018-12-13 01:35:17.844137] svc_rbf[7][2] current best score: 0.9998
+[2018-12-13 01:35:34.856571] svc_rbf[8][2] current best score: 0.9998
+[2018-12-13 01:35:45.901241] svc_rbf[9][2] current best score: 0.9998
+[2018-12-13 01:35:57.263262] svc_rbf[10][2] current best score: 0.9998
+[2018-12-13 01:36:09.014845] svc_rbf[11][2] current best score: 0.9998
+[2018-12-13 01:36:21.848510] svc_rbf[12][2] current best score: 1.0000
+[2018-12-13 01:36:21.849005] svc_rbf[12][2] stopped early
+[2018-12-13 01:36:24.427820] (0) RESULTS [0:02:30.938120]: clf: svc_rbf, p: 0.8, train: 1.0000, val: 1.0000, test: 1.0000
+[2018-12-13 01:36:24.427820] (1) BEST_PARAMS: C: 0.8313187623407089, gamma: 0.04440770478134857
+[2018-12-13 01:36:24.429780] Making 32 iterations on knn_2 (0.8)
+[2018-12-13 01:36:35.969319] knn[1][2] current best score: 0.0000
+[2018-12-13 01:36:47.009769] knn[2][2] current best score: 0.0069
+[2018-12-13 01:36:56.436829] knn[3][2] current best score: 0.0069
+[2018-12-13 01:37:05.913468] knn[4][2] current best score: 0.0069
+[2018-12-13 01:37:15.306719] knn[5][2] current best score: 0.0069
+[2018-12-13 01:37:24.550806] knn[6][2] current best score: 0.0069
+[2018-12-13 01:37:29.588150] knn[7][2] current best score: 0.9827
+[2018-12-13 01:37:38.304038] knn[8][2] current best score: 0.9827
+[2018-12-13 01:37:45.848672] knn[9][2] current best score: 0.9827
+[2018-12-13 01:37:54.062450] knn[10][2] current best score: 0.9827
+[2018-12-13 01:37:56.699954] knn[11][2] current best score: 0.9994
+[2018-12-13 01:38:09.628377] knn[12][2] current best score: 0.9994
+[2018-12-13 01:38:15.037969] knn[13][2] current best score: 0.9994
+[2018-12-13 01:38:20.186130] knn[14][2] current best score: 0.9994
+[2018-12-13 01:38:22.685235] knn[15][2] current best score: 0.9996
+[2018-12-13 01:38:27.847671] knn[16][2] current best score: 0.9996
+[2018-12-13 01:38:28.297320] (0) RESULTS [0:02:03.868341]: clf: knn, p: 0.8, train: 1.0000, val: 0.9996, test: 1.0000
+[2018-12-13 01:38:28.297320] (1) BEST_PARAMS: n_neighbors: 1, weights: distance
+[2018-12-13 01:38:28.298215] Making 16 iterations on logreg_2 (0.8)
+[2018-12-13 01:38:28.368763] logreg[1][2] current best score: 0.4218
+[2018-12-13 01:38:28.424785] logreg[2][2] current best score: 0.4256
+[2018-12-13 01:38:28.481686] logreg[3][2] current best score: 0.4310
+[2018-12-13 01:38:28.552151] logreg[4][2] current best score: 0.4310
+[2018-12-13 01:38:28.600670] logreg[5][2] current best score: 0.4310
+[2018-12-13 01:38:28.671024] logreg[6][2] current best score: 0.4310
+[2018-12-13 01:38:28.744569] logreg[7][2] current best score: 0.4332
+[2018-12-13 01:38:28.800988] logreg[8][2] current best score: 0.4332
+[2018-12-13 01:38:28.871996] logreg[9][2] current best score: 0.4332
+[2018-12-13 01:38:29.165851] logreg[10][2] current best score: 0.4332
+[2018-12-13 01:38:29.712950] logreg[11][2] current best score: 0.4332
+[2018-12-13 01:38:30.113152] logreg[12][2] current best score: 0.4332
+[2018-12-13 01:38:30.660359] logreg[13][2] current best score: 0.4470
+[2018-12-13 01:38:31.120553] logreg[14][2] current best score: 0.4470
+[2018-12-13 01:38:31.667384] logreg[15][2] current best score: 0.4470
+[2018-12-13 01:38:32.211559] logreg[16][2] current best score: 0.4470
+[2018-12-13 01:38:32.232840] (0) RESULTS [0:00:03.934662]: clf: logreg, p: 0.8, train: 0.5188, val: 0.4470, test: 0.4635
+[2018-12-13 01:38:32.232840] (1) BEST_PARAMS: C: 0.00197738572637902
+[2018-12-13 01:38:32.233893] (0) Total Time: 3:37:00.637581
+[2018-12-13 01:38:32.233893] (1) ==== CV Complete ====
