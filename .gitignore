@@ -1,0 +1,5 @@
+*.data
+ADULT_bayes_2.log
+MUSH_cv.log
+.ipynb_checkpoints/
+.idea/
